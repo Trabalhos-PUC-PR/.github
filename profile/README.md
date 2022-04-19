@@ -9,7 +9,7 @@ E eu não iria juntar tudo em um repositório só por que usar git nisso é horr
 
 ******
 
-<details><summary><h2>Nomenclatura das Matérias</h2></summary>
+<details><summary><h2>Matérias</h2></summary>
 <p>
   
 ## 1° Período:
