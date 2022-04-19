@@ -7,7 +7,11 @@ E eu não iria juntar tudo em um repositório só por que usar git nisso é horr
 
 É isso ai
 
-# Nomenclatura das Matérias
+******
+
+<details><summary><h2>Nomenclatura das Matérias</h2></summary>
+<p>
+  
 ## 1° Período:
 - MFF = Modelagem de Fenomênos Físicos
 - RA = Raciocínio Algoritmico
@@ -23,6 +27,10 @@ E eu não iria juntar tudo em um repositório só por que usar git nisso é horr
 - EXP3 = Experiência Criativa: Pesquisa Aplicada
 - PROLOG = Programação Lógica
 - DB1 = Banco de Dados
+  
 
 ###### [Negócio](https://github.github.com/gfm/#what-is-github-flavored-markdown-) pra deixar o github bonito 
 ###### Também tem [esse](https://docs.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax) aqui
+  
+</p>
+</details>
