@@ -28,9 +28,5 @@ E eu não iria juntar tudo em um repositório só por que usar git nisso é horr
 - PROLOG = Programação Lógica
 - DB1 = Banco de Dados
   
-
-###### [Negócio](https://github.github.com/gfm/#what-is-github-flavored-markdown-) pra deixar o github bonito 
-###### Também tem [esse](https://docs.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax) aqui
-  
 </p>
 </details>
