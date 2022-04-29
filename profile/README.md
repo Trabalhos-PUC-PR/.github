@@ -8,10 +8,9 @@ E eu não iria juntar tudo em um repositório só por que usar git em uma pasta 
 É isso ai
 
 ******
-
-<details><summary><h2>Matérias</h2></summary>
+<details><summary><b>Matérias</b></summary>
 <p>
-  
+
 ## 1° Período:
 - MFF = Modelagem de Fenomênos Físicos
 - RA = Raciocínio Algoritmico
@@ -27,6 +26,6 @@ E eu não iria juntar tudo em um repositório só por que usar git em uma pasta 
 - EXP3 = Experiência Criativa: Pesquisa Aplicada
 - PROLOG = Programação Lógica
 - DB1 = Banco de Dados
-  
+
 </p>
 </details>
