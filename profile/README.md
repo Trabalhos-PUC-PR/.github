@@ -26,6 +26,9 @@ E eu não iria juntar tudo em um repositório só por que usar git em uma pasta 
 - EXP3 = Experiência Criativa: Pesquisa Aplicada
 - PROLOG = Programação Lógica
 - DB1 = Banco de Dados
+****
+## 4° Período:
+- INTERP = Construção de interpretadores
 
 </p>
 </details>
