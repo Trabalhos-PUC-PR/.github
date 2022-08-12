@@ -28,7 +28,10 @@ E eu não iria juntar tudo em um repositório só por que usar git em uma pasta 
 - DB1 = Banco de Dados
 ****
 ## 4° Período:
-- INTERP = Construção de interpretadores
-
+- Interpretadores = Construção de interpretadores
+- Grafos = Resolução de Problemas com Grafos
+- ProgParalela = Programação Distribuída, Paralela e Concorrente
+- ModSis = Modelagem de Sistemas Computacionais
+- MtQt = Métodos Quantitativos para Computação
 </p>
 </details>
