@@ -30,6 +30,7 @@ E eu não iria juntar tudo em um repositório só por que usar git em uma pasta 
 ## 4° Período:
 - Interpretadores = Construção de interpretadores
 - Grafos = Resolução de Problemas com Grafos
+- ProgImperativa = Programação Imperativa
 - ProgParalela = Programação Distribuída, Paralela e Concorrente
 - ModSis = Modelagem de Sistemas Computacionais
 - MtQt = Métodos Quantitativos para Computação
