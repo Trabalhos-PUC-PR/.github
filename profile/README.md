@@ -34,5 +34,8 @@ E eu não iria juntar tudo em um repositório só por que usar git em uma pasta 
 - ProgParalela = Programação Distribuída, Paralela e Concorrente
 - ModSis = Modelagem de Sistemas Computacionais
 - MtQt = Métodos Quantitativos para Computação
+****
+## 5° Período:
+- IA = Inteligencia Artificial
 </p>
 </details>
