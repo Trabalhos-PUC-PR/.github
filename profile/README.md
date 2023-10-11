@@ -37,5 +37,10 @@ E eu não iria juntar tudo em um repositório só por que usar git em uma pasta 
 ****
 ## 5° Período:
 - IA = Inteligencia Artificial
+- ****
+## 6° Período:
+- PFun = Programacao Funcional
+- DtSc = Data Science
+****
 </p>
 </details>
